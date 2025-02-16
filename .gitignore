@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
-
+launch.json
+settings.json
+*.json
+outDebug
+*.o
 # Compiled Object files
 *.slo
 *.lo
